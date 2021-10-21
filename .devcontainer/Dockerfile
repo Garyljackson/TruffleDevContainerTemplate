@@ -11,7 +11,7 @@ RUN apt update && apt upgrade -y
 RUN apt install curl
 
 # Install node.js
-RUN curl -fsSL https://deb.nodesource.com/setup_17.x | sudo -E bash -
+RUN curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 RUN apt install -y nodejs
 
 # Install Truffle Suite

@@ -12,7 +12,7 @@ Instuctions for getting started with dev containers within Visual Studio Code ca
 
 # Components Installed
 
-- node.js (17.x) + npm
+- node.js (14.x) + npm
 - [Truffle](https://www.trufflesuite.com/truffle)
 - [ganache-cli](https://www.npmjs.com/package/ganache-cli)
 
