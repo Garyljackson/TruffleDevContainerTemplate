@@ -2,6 +2,10 @@
 
 This is a Visual Studio Code remote dev container template for doing blockchain development with node.js and Truffle
 
+## Note about the first run
+
+On the very first run the container needs to be built - This can take a while. The next run will be much faster.
+
 # How to use
 
 Instuctions for getting started with dev containers within Visual Studio Code can be [found here](https://code.visualstudio.com/docs/remote/containers)
